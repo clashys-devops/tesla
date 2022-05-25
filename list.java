@@ -4,3 +4,5 @@ faith
 daniella
 sintia
 nadesh
+chi
+ope
