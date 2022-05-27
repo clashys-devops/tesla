@@ -4,5 +4,4 @@ faith
 daniella
 sintia
 nadesh
-chi
 kennedy
