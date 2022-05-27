@@ -1,1 +1,2 @@
 print ('courage')
+print ("faith")
